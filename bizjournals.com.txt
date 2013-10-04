@@ -4,6 +4,8 @@ prune: no
 
 strip: //div[contains(@class, 'staff_info')]//dd[contains(., 'Twitter')]
 
+strip_id_or_class: staff_info
+strip_id_or_class: adops-c1
 strip_id_or_class: related_content
 strip_id_or_class: enlarge
 strip_id_or_class: photoBy
